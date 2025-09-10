@@ -24,5 +24,6 @@ Using machine learning and data science techniques, the project builds predictiv
 
 2. Open the Jupyter Notebook: 
     ```bash
-    jupyter notebook YouTubeDataViz.ipynb
+    jupyter notebook Disease_Analytics_Project_Nathaniel_Atkins.ipynb
+
 
